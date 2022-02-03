@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calferraro
 - 👀 I’m interested in robot learning and other robotics AI projects
-- 🌱 I’m currently learning about deep learning and genetic algorithms
+- 🌱 I’m currently learning about deep reinforcement learning and generative adversarial networks
 - 📫 You can reach me at csferrar@asu.edu
 
 <!---
