@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calferraro
 - 👀 I’m interested in robot learning and other robotics AI projects
 - 🌱 I’m currently learning about deep reinforcement learning and human robot interaction
-- 📫 You can reach me at csferrar@asu.edu
+- 📫 You can reach me at calvinsferraro@gmail.com
 
 <!---
 calferraro/calferraro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
